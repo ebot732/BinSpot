@@ -96,41 +96,33 @@ E-Bot поставляется по принципу «как есть». Ни�
 
 Для удобства настройки E-Bot можно использовать телеграм бота, которого нужно сделать админом в телеграм канале. Необходимые данные телеграм бот возьмет из БД E-Bot и будет управляться через чат telegram-Botа.
 
+Табличка Spot_усреды_Ebot.xls показывает приблизительные расчёты усреднений.
+
 
 Скриншоты 
 
 
-![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/Screenshot_20221124-181430_Telegram.jpg)
+![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/screenshots/Screenshot_20230308-122421.png)
 
 =================================================================================================
 
 
-![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/Screenshot_20221124-181435_Telegram.jpg)
+![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/screenshots/Screenshot_20230308-122558.png)
 
 =================================================================================================
 
 
-![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/Screenshot_20221124-181537_Telegram.jpg)
+![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/screenshots/Screenshot_20230308-122725.png)
 
 =================================================================================================
 
 
-![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/spot-short.png)
+![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-08%2012-31-41.png)
 
 =================================================================================================
 
 
-![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/Screenshot_20221124-181548_Telegram.jpg)
-
-=================================================================================================
-
-
-![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/Screenshot_20221124-181939_Telegram.jpg)
-
-=================================================================================================
-
-
-![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202022-11-24%2018-31-10.png)
+![Screenshot](https://github.com/ebot732/ebotSpot/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-08%2012-32-13.png)
 
 =================================================================================================
 
@@ -138,4 +130,4 @@ E-Bot поставляется по принципу «как есть». Ни�
 
 
 
-Табличка Spot_усреды_Ebot.xls показывает приблизительные расчёты усреднений.
+
