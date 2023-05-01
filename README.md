@@ -1,4 +1,5 @@
 # ebotSpot
+Trading bot for exchange Binance
 E-Bot spot.
 Бот для торговли на Binance spot с использованием стратегии мартингейла (усреднения) и выбором растущей монеты (при работе в LONG, или падающей, при работе в SHORT).
 
