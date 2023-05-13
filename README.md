@@ -113,27 +113,27 @@ BinSpot поставляется по принципу «как есть». Н�
             Скриншоты 
 
 
-![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/Screenshot_20230308-122421.png)
+![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/Screenshot_20230513-110159.png)
 
 =================================================================================================
 
 
-![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/Screenshot_20230308-122558.png)
+![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/Screenshot_20230513-110226.png)
 
 =================================================================================================
 
 
-![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/Screenshot_20230308-122725.png)
+![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/Screenshot_20230513-110611.png)
 
 =================================================================================================
 
 
-![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-08%2012-31-41.png)
+![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-05-13%2010-52-59.png)
 
 =================================================================================================
 
 
-![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-03-08%2012-32-13.png)
+![Screenshot](https://github.com/ebot732/BinSpot/blob/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%D0%BE%D1%82%202023-05-13%2010-53-13.png)
 
 =================================================================================================
 
