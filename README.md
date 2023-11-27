@@ -1,5 +1,6 @@
 # BinSpot
-Trading bot for Binance exchange.
+Trading bot for Binance exchange.    
+Сайт ботов: https://ebot732.github.io/
 
 Бот BinSpot.
 Бот для торговли на Binance spot с использованием стратегии Мартингейла (усреднения- увеличения позиции с целью улучшения средней цены входа) и выбором растущей монеты (при работе в LONG, или падающей, при работе в SHORT).
